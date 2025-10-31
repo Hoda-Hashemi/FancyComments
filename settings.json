@@ -1,0 +1,68 @@
+{
+  "todo-tree.highlights.defaultHighlight": {
+    "type": "line",
+    "icon": "alert",
+    "foreground": "#CBE0F0",
+    "background": "#000914",
+    "gutterIcon": true,
+    "rulerColour": "#00FFFF",
+    "rulerLane": "full",
+    "opacity": 80
+  },
+  "todo-tree.highlights.customHighlight": {
+    "!BUGTRACK": {
+      "foreground": "#00FFFF",
+      "background": "#004658",
+      "icon": "bug",
+      "type": "whole-line",
+      "rulerLane": "full",
+      "opacity": 80,
+      "wholeLine": true
+    },
+    "!ALTERED": {
+      "foreground": "#fc31ff",
+      "background": "#700578",
+      "icon": "tools",
+      "type": "whole-line",
+      "rulerLane": "full",
+      "opacity": 80,
+      "wholeLine": true
+    },
+    "!TOFIX": {
+      "foreground": "#f84aa1",
+      "background": "#4a0126",
+      "icon": "squirrel",
+      "type": "whole-line",
+      "rulerLane": "full",
+      "opacity": 80,
+      "wholeLine": true
+    },
+    "!ROCKET": {
+      "foreground": "#FFA500",
+      "background": "#4d2801",
+      "icon": "rocket",
+      "type": "whole-line",
+      "rulerLane": "full",
+      "opacity": 80,
+      "wholeLine": true
+    },
+    "!ADDED": {
+      "foreground": "#FFFF00",
+      "background": "#3f3f00",
+      "icon": "bell",
+      "type": "whole-line",
+      "rulerLane": "full",
+      "opacity": 80,
+      "wholeLine": true
+    },
+    "!COMMENT": {
+      "foreground": "#47FF9C",
+      "background": "#014f35",
+      "icon": "flame",
+      "type": "whole-line",
+      "rulerLane": "full",
+      "opacity": 80,
+      "wholeLine": true
+    }
+  }
+}
