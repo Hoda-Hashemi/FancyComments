@@ -5,7 +5,7 @@ https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
 * Go to settings (command + ,)
 * search: tree highlight
 * Go to `edit in settings.json`
-<img src="customHighlight.png"/>
+<img src="figures/customHighlight.png"/>
 * add the `.json` snippet in this repository
 * enjoy :)
 
@@ -18,5 +18,5 @@ https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
 * 🔔 **!ADDED:**
 
 ### Command Palette Preview
-<img  src="todoCommands.png"/>
+<img  src="figures/todoCommands.png"/>
 
